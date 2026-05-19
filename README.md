@@ -12,6 +12,3 @@ This project was developed during the CodeAlpha Artificial Intelligence Internsh
 - Python
 - Gradio
 - deep-translator
-
-## Developed By
-Mahnoor Malik
